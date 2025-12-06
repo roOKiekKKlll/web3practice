@@ -1,4 +1,4 @@
-# [hdd.cm推特低至1毛5](https://hdd.cm/)
+# source from the hdd.cm, oauth2增加了简单的csrf优化，避免了csrf不一致问题
 
 # XAuth Python版本
 
