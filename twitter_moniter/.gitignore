@@ -1,0 +1,22 @@
+# 监控数据
+monitor_data/
+test_data/
+
+# 敏感信息
+config.py
+twitter_cookies.json
+*.cookies
+*.tw_session
+auth_token.txt
+injector.log
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+
