@@ -1,0 +1,89 @@
+# ====================
+# Fight.ID Scripts .gitignore
+# ====================
+
+# ==================== 敏感数据文件 ====================
+# 钱包私钥文件
+wallet.txt
+main_wallet.txt
+referral_wallet.txt
+apt_wallet.txt
+sol_wallet.txt
+*.key
+*private_key*
+*privatekey*
+
+# Token 和认证文件
+tokens.csv
+tokens_email.csv
+tokens_email_info.csv
+
+# 邮箱密码文件
+email.txt
+*password*
+
+# ==================== 运行时生成的数据 ====================
+# 报告文件
+report.csv
+claim.csv
+game_results.csv
+gas_distribution_report.csv
+apt_bsc.csv
+sol_bsc.csv
+referral_info_main.csv
+binding_results.txt
+
+# 日志文件
+*.log
+game.log
+*.log.*
+
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+.venv/
+.env/
+
+# ==================== IDE ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ==================== 环境变量 ====================
+.env
+.env.local
+.env.*.local
+config.py
+config.local.py
+
+# ==================== 其他 ====================
+*.xlsx
+*.xls
+*.tmp
+*.bak
+
