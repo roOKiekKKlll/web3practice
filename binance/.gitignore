@@ -1,0 +1,22 @@
+# 敏感配置文件
+config.py
+
+# 提现地址（可能包含敏感信息）
+withdraw_addresses.csv
+
+# 提现结果日志
+withdraw_results.csv
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+

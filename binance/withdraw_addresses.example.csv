@@ -1,0 +1,5 @@
+coin,address,amount,network,address_tag
+USDT,0x1234567890abcdef1234567890abcdef12345678,100,BSC,
+USDT,TAbcdefghijklmnopqrstuvwxyz123456789,200,TRX,
+BNB,0xabcdef1234567890abcdef1234567890abcdef12,0.5,BSC,
+
