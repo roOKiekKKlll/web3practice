@@ -1,1 +1,1 @@
-web3 script pritice
+web3 script practice
